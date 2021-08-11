@@ -1,0 +1,13 @@
+Console Troll
+
+Use the console in your broswer to edit the contents of a webpage of your choosing. 
+
+A complete assignment will have the following:
+	(1) Flair! (this is mean to be fun :)
+	(2) An edited DOM
+	(3) Edited CSS
+	(4) Any extra pizzaz you can dream up
+
+Submit this via your git branch (see the Info directory for more on branching)
+
+
