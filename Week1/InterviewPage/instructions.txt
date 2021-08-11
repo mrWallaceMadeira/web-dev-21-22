@@ -1,0 +1,14 @@
+Interview Page
+
+Interview a classmate about their summer! Make a webpage! 
+
+Basic requirements:
+  (1) 2 HTML pages
+  (2) 1 external CSS file
+
+High marks will be awarded for webpages that are both creative and well organized. The
+viewer should be able to quickly understand what ____INSERT STUDENT____ did over the 
+summer. Do not be afraid to use other websites for inspiration; the console is your
+friend.
+
+
