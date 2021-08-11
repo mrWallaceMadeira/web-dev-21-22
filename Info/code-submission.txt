@@ -1,0 +1,21 @@
+Code Submission
+---------------
+
+All of our code will live on a GitHub repository (repo) for collaborative purposes.  You will write your code on a *branch* of this repo. 
+
+
+	How to clone
+	------------
+	command: git clone [INSERT HTTPS/SSH LINK]
+
+
+	How to branch
+	-------------
+	* ensure you are in the correct git directory
+	* you should have ONE branch for the whole mod
+	* your branch should be titled with the first letter of your first name and camel-case last name
+		* e.g. my name is Peter Wallace, my branch is pWallace
+
+
+	command: git branch [NAME OF BRANCH HERE]
+
