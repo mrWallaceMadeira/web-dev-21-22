@@ -1,0 +1,11 @@
+Another tedious task to automate with bash!
+Write a bash script to do the following:
+    1. Ask the user what they'd like their project to be named
+    2. Create a project structure that looks like the following
+
+    PROJECT_NAME
+    |
+    --index.html
+    --styles.css
+
+    The HTML file should be filled with "HTML boilerplate code" & properly linked to CSS
